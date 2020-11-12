@@ -47,7 +47,8 @@ main{
     width: 30%;
 }
 .nav>img{
-    width: 100%;
+    width: 400px;
+    height: 400px;
 }
 .date-bottom{
     display: flex;
